@@ -1,8 +1,5 @@
 {
-  "include": [
-    "src/*",
-    "dev/*"
-  ],
+  "include": ["src/*", "dev/*"],
   "compilerOptions": {
     "target": "es2021",
     "module": "nodenext",
